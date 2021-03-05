@@ -1,0 +1,3 @@
+/bin/bash
+
+exec tput smcup & ../node index.js

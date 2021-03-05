@@ -1,0 +1,14 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jenya Gul",
+  "license": "ISC",
+  "dependencies": {
+    "axel": "^0.0.3"
+  }
+}
